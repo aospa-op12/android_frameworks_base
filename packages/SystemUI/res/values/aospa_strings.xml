@@ -27,4 +27,8 @@
     <!-- Per-app volume panel -->
     <string name="app_volume">App volume</string>
     <string name="app_volume_no_active_apps">No active audio playback</string>
+
+    <!-- Face unlock -->
+    <string name="face_unlock_recognizing">Recognizing face...</string>
+
 </resources>
