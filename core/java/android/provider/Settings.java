@@ -14400,6 +14400,13 @@ public final class Settings {
         public static final String NAVIGATION_BAR_HINT = "navigation_bar_hint";
 
         /**
+         * Edge grip suppression width level (1-5)
+         * @hide
+         */
+        @Readable
+        public static final String EDGE_GRIP_SUPPRESSION = "edge_grip_suppression";
+
+        /**
          * These entries are considered common between the personal and the managed profile,
          * since the managed profile doesn't get to change them.
          */

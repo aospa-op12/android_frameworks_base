@@ -350,6 +350,7 @@ public class SecureSettings {
         Settings.Secure.DOZE_PICK_UP_GESTURE_AMBIENT,
         Settings.Secure.DOZE_TAP_GESTURE_AMBIENT,
         Settings.Secure.DOZE_ON_CHARGE,
+        Settings.Secure.EDGE_GRIP_SUPPRESSION,
         Settings.Secure.NAVIGATION_BAR_HINT,
         Settings.Secure.DISPLAY_COLOR_BALANCE_RED,
         Settings.Secure.DISPLAY_COLOR_BALANCE_GREEN,
